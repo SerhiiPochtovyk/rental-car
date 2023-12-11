@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Тестове завдання
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Опис
 
-## Available Scripts
+Створити застосунок для компанії, що надає послуги надання в Україні автомобілів
+в оренду. Застосунок складається з 3х сторінок:
 
-In the project directory, you can run:
+## Опис проекту: 
 
-### `npm start`
+## Автооренда "Rental Сar"
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Огляд**
+Проект "Rental Сar" є веб-застосунком для компанії, яка спеціалізується на наданні послуг з прокату автомобілів в Україні. Застосунок дозволяє користувачам легко знаходити, оглядати та орендовувати автомобілі для різних потреб.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Основні функції
+Перегляд доступних автомобілів:
 
-### `npm test`
+Користувач може переглядати список доступних автомобілів з різними характеристиками.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Деталі автомобіля:
 
-### `npm run build`
+Кожен автомобіль має власну сторінку з детальною інформацією, включаючи фотографії, характеристики, опис та умови оренди.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Фільтрація та сортування:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Користувач може використовувати фільтри та сортування для швидкого пошуку автомобілів за різними параметрами.
+Оренда автомобіля:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Легкий процес замовлення автомобіля, включаючи введення дати та часу оренди, вказування інформації та підтвердження замовлення.
+Модульність та розширюваність:
 
-### `npm run eject`
+Проект розроблений з використанням модульної структури, що дозволяє легко розширювати та змінювати функціонал.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Бажаємо вам приємного користування нашим сервісом "Rental Сar"!
